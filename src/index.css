@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h2 {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  color: #281414;
+  z-index: 2;
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  color: #281414;
+  z-index: 2;
+  margin: 0;
+  padding: 0;
+}
